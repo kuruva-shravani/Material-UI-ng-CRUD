@@ -1,0 +1,67 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "date": "2022-08-17T18:30:00.000Z",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": "Fresh Fruits",
+      "id": 1
+    },
+    {
+      "productName": "orange",
+      "category": "Fruits",
+      "date": "2022-08-17T18:30:00.000Z",
+      "freshness": "Brand new",
+      "price": 150,
+      "comment": "Fresh Oranges",
+      "id": 2
+    },
+    {
+      "productName": "sony",
+      "category": "Electronics",
+      "date": "2022-08-18T18:30:00.000Z",
+      "freshness": "Brand new",
+      "price": 20000,
+      "comment": "new sony tv",
+      "id": 3
+    },
+    {
+      "productName": "samsung",
+      "category": "Electronics",
+      "date": "2022-08-19T18:30:00.000Z",
+      "freshness": "Brand new",
+      "price": 50000,
+      "comment": "Samsung 52inches tv",
+      "id": 4
+    },
+    {
+      "productName": "Iphone",
+      "category": "Electronics",
+      "date": "2022-08-19T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 75000,
+      "comment": "12 mini iphone ",
+      "id": 5
+    },
+    {
+      "productName": "potato",
+      "category": "Vegetables",
+      "date": "2022-08-18T18:30:00.000Z",
+      "freshness": "Brand new",
+      "price": 250,
+      "comment": "Fresh potatos to make allu chips",
+      "id": 7
+    },
+    {
+      "productName": "samsung",
+      "category": "Electronics",
+      "date": "2022-08-25T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 24000,
+      "comment": "New mobile ",
+      "id": 8
+    }
+  ]
+}
